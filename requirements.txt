@@ -1,1 +1,8 @@
 
+streamlit
+nsepy
+pandas
+numpy
+requests
+yfinance
+matplotlib
